@@ -1,0 +1,57 @@
+{
+    "items": [
+        {      
+            "name":"wooden shield",
+            "type":2,
+            "stm_bonus": 2,
+            "cost": 10
+        },
+        {
+            "name":"pink sweater",
+            "type":3 ,
+            "edu_bonus":5,
+            "str_bonus": -10,
+            "knw_bonus": -10,
+            "cost": 10
+        },
+        {
+            "name":"wooden sword",
+            "type": 1,
+            "edu_bonus" :1,
+            "str_bonus":3,
+            "cost": 10          
+        },
+        {
+            "name": "grandma socks",
+            "type":  4,
+            "edu_bonus": 2,
+            "str_bonus": 2,
+            "agi_bonus": 2,
+            "cost": 10  
+        },
+        {
+            "name": "socks",
+            "type": 4,
+            "stm_bonus": 1,
+            "cost": 10
+        },
+        {
+            "name": "runner suit",
+            "type": 5,
+            "plank": 2,
+            "edu_bonus":5,
+            "stm_bonus": 2,
+            "cost": 10 
+        },
+        {
+            "name": "Comics",
+            "type": 5,
+            "edu_bonus": -2,
+            "str_bonus":-2,
+            "stm_bonus": -2,
+            "agi_bonus": -2,
+            "knw_bonus": -2,
+            "cost": 10
+        }
+        ]
+}

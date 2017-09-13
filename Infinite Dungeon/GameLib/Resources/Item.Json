@@ -1,0 +1,114 @@
+{
+    "items": [
+         {
+            "name":"Banana",
+            "type": 1,
+            "edu_bonus" :1,
+            "str_bonus":3,
+            "cost": 10          
+        },
+        {
+            "name":"wooden shield",
+            "type":2,
+            "stm_bonus": 2,
+            "cost": 10
+        },
+        {
+            "name":"pink sweater",
+            "type":3 ,
+            "edu_bonus":5,
+            "str_bonus": -10,
+            "knw_bonus": -10,
+            "cost": 10
+        },
+        {
+            "name": "grandma socks",
+            "type":  4,
+            "edu_bonus": 2,
+            "str_bonus": 2,
+            "agi_bonus": 2,
+            "cost": 10  
+        },
+        {
+            "name": "runner suit",
+            "type": 5,
+            "edu_bonus":5,
+            "stm_bonus": 2,
+            "cost": 10 
+        },
+        {
+            "name": "Comics",
+            "type": 5,
+            "edu_bonus": -2,
+            "str_bonus":-2,
+            "stm_bonus": -2,
+            "agi_bonus": -2,
+            "knw_bonus": -2,
+            "cost": 10
+        },
+        {
+            "name": "socks",
+            "type": 4,
+            "stm_bonus": 1,
+            "cost": 10
+        },
+        {
+            "name": "Rock",
+            "type": 5,
+            "edu_bonus": -5,
+            "str_bonus":-5,
+            "stm_bonus": -5,
+            "agi_bonus": -5,
+            "knw_bonus": -5,
+            "cost": 1
+        },
+        {
+            "name": "Flowers",
+            "type": 1,
+            "str_bonus":-9,
+            "agi_bonus": 1,
+            "cost": 10
+        },
+        {
+            "name": "Parry king`s dagger",
+            "type": 2,
+            "edu_bonus": -2,
+            "str_bonus":-2,
+            "stm_bonus": -2,
+            "agi_bonus": 9,
+            "knw_bonus": -2,
+            "cost": 10
+        },
+        {
+            "name": "Deez nuts",
+            "type": 3,
+            "plank": 3, 
+            "edu_bonus": -1,
+            "str_bonus": 1,
+            "stm_bonus": 1,
+            "agi_bonus": -1,
+            "knw_bonus": -1,
+            "cost": 10
+        },
+        {
+            "name": "Boots of spid",
+            "type": 4,
+            "edu_bonus": -2,
+            "str_bonus":-2,
+            "stm_bonus": -2,
+            "agi_bonus": -2,
+            "knw_bonus": -2,
+            "cost": 10
+        },
+        {
+            "name": "your mom",
+            "type": 5,
+            "edu_bonus": -9,
+            "str_bonus":-9,
+            "stm_bonus": -9,
+            "agi_bonus": -9,
+            "knw_bonus": -9,
+            "cost": -100
+        }
+        ]
+}
